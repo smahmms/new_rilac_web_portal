@@ -1,0 +1,1 @@
+//!vatnoo //|| vatnoo.length !== 9  //false return will show error
